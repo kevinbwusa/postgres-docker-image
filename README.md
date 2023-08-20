@@ -1,0 +1,1 @@
+This is my first Dockerfile of a postgres image
